@@ -1,6 +1,6 @@
 # Descrição do projeto
-Nessa versão a squad Tech Koders desenvolveu uma aplicação mobile,
-onde ao contrario da versão desktop, so consome os dados que estão dentro do banco de dados.
+- Nessa versão a squad **Tech Koders** desenvolveu uma aplicação mobile,
+com intuito de apresentar os dados de produtos armazenados no banco de dados.
 
 ## Referencias 
 - [Crud Rocketseat](https://www.youtube.com/watch?v=Fbu7z5dXcRs)
