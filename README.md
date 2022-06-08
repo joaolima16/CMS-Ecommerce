@@ -15,7 +15,7 @@ onde ao contrario da versão desktop, so consome os dados que estão dentro do b
 - [@Gabriel Felix](https://github.com/gabriel18fx)
 
 
-## Requisições de software
+## Requisitos do Software
 
 ```bash 
     Ferramentas Necessárias:
@@ -32,13 +32,13 @@ onde ao contrario da versão desktop, so consome os dados que estão dentro do b
 ```
 ## Funcionalidades
 
-- Busacar Produtos 
+- Visualizar os produtos armazenados no Banco De Dados
 
 ## Tecnologias Utilizadas
 
-**Front-End**: expo 
+**Front-End**: expo
 
-**Bibliotecas**: navigation, fontawesome
+**Bibliotecas**: navigation, fontawesome, axios 
 
 
 
